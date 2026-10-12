@@ -1,3 +1,4 @@
+https://github.com/ebm9991/Seeed_ICM20600_AK09918_UNOR4
 https://github.com/jobitjoseph/PAC1xxx
 https://github.com/algomusic/MultiControl
 https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32
